@@ -20,7 +20,9 @@ OutPut
 
 > Player 6 says 7
 
-> *** Direction change at 7 ***
+> *** Direction change at 7 pre 0***
+
+> *** Direction change at 7 post 1***
 
 > Player 5 says 8
 
@@ -38,7 +40,9 @@ OutPut
 
 > Player 8 says 14
 
-> *** Direction change at 14 ***
+> *** Direction change at 14 pre 1***
+
+> *** Direction change at 14 post 0***
 
 > Player 9 says 15
 
@@ -54,7 +58,9 @@ OutPut
 
 > Player 5 says 21
 
-> *** Direction change at 21 ***
+> *** Direction change at 21 pre 0***
+
+> *** Direction change at 21 post 1***
 
 > Player 4 says 22
 
@@ -72,7 +78,9 @@ OutPut
 
 > Player 7 says 28
 
-> *** Direction change at 28 ***
+> *** Direction change at 28 pre 1***
+
+> *** Direction change at 28 post 0***
 
 > Player 8 says 29
 
@@ -90,7 +98,9 @@ OutPut
 
 > Player 5 says 35
 
-> *** Direction change at 35 ***
+> *** Direction change at 35 pre 0***
+
+> *** Direction change at 35 post 1***
 
 > Player 4 says 36
 
@@ -106,7 +116,9 @@ OutPut
 
 > Player 8 says 42
 
-> *** Direction change at 42 ***
+> *** Direction change at 42 pre 1***
+
+> *** Direction change at 42 post 0***
 
 > Player 9 says 43
 
@@ -124,7 +136,9 @@ OutPut
 
 > Player 6 says 49
 
-> *** Direction change at 49 ***
+> *** Direction change at 49 pre 0***
+
+> *** Direction change at 49 post 1***
 
 > Player 5 says 50
 
@@ -142,7 +156,9 @@ OutPut
 
 > Player 8 says 56
 
-> *** Direction change at 56 ***
+> *** Direction change at 56 pre 1***
+
+> *** Direction change at 56 post 0***
 
 > Player 9 says 57
 
@@ -158,7 +174,9 @@ OutPut
 
 > Player 5 says 63
 
-> *** Direction change at 63 ***
+> *** Direction change at 63 pre 0***
+
+> *** Direction change at 63 post 1***
 
 > Player 4 says 64
 
@@ -176,7 +194,9 @@ OutPut
 
 > Player 7 says 70
 
-> *** Direction change at 70 ***
+> *** Direction change at 70 pre 1***
+
+> *** Direction change at 70 post 0***
 
 > Player 8 says 71
 
@@ -192,63 +212,73 @@ OutPut
 
 > Player 4 says 77
 
-> *** Direction change at 77 ***
+> *** Direction change at 77 pre 0***
 
-> Player 3 says 78
+> *** Direction change at 77 post 1***
 
-> Player 2 says 79
+> *** Skipping next player at 77 ***
 
-> Player 1 says 80
+> Player 2 says 78
 
-> Player 0 says 81
+> Player 1 says 79
 
-> Player 9 says 82
+> Player 0 says 80
 
-> Player 8 says 83
+> Player 9 says 81
 
-> Player 7 says 84
+> Player 8 says 82
 
-> *** Direction change at 84 ***
+> Player 7 says 83
 
-> Player 8 says 85
+> Player 6 says 84
 
-> Player 9 says 86
+> *** Direction change at 84 pre 1***
 
-> Player 0 says 87
+> *** Direction change at 84 post 0***
 
-> Player 1 says 88
+> Player 7 says 85
+
+> Player 8 says 86
+
+> Player 9 says 87
+
+> Player 0 says 88
 
 > *** Skipping next player at 88 ***
 
-> Player 3 says 89
+> Player 2 says 89
 
-> Player 4 says 90
+> Player 3 says 90
 
-> Player 5 says 91
+> Player 4 says 91
 
-> *** Direction change at 91 ***
+> *** Direction change at 91 pre 0***
 
-> Player 4 says 92
+> *** Direction change at 91 post 1***
 
-> Player 3 says 93
+> Player 3 says 92
 
-> Player 2 says 94
+> Player 2 says 93
 
-> Player 1 says 95
+> Player 1 says 94
 
-> Player 0 says 96
+> Player 0 says 95
 
-> Player 9 says 97
+> Player 9 says 96
 
-> Player 8 says 98
+> Player 8 says 97
 
-> *** Direction change at 98 ***
+> Player 7 says 98
 
-> Player 9 says 99
+> *** Direction change at 98 pre 1***
+
+> *** Direction change at 98 post 0***
+
+> Player 8 says 99
 
 > *** Skipping next player at 99 ***
 
-> Player 1 says 100
+> Player 0 says 100
 
-> *** Player 1 says 100 ***
+> *** Player 0 says 100 ***
 
